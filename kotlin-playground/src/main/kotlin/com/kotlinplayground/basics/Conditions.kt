@@ -41,5 +41,5 @@ fun main() {
    }
 
     println(medal)
-    
+
 }
